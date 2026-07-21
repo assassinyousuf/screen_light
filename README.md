@@ -33,7 +33,7 @@ graph TD
     D --> E[Mid-gray Contrast Scaling]
     E --> F[Gamma Power-law Correction]
     F --> G[Master Brightness & Ambient Scale]
-    G --> H[Clamping [0, 255] -> Final Background]
+    G --> H["Clamping [0, 255] -> Final Background"]
 ```
 
 1.  **Base Color**: Computes initial RGB using Tanner Helland's blackbody approximation or user color picker.
