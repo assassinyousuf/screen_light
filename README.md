@@ -2,6 +2,8 @@
 
 Turn any monitor or display into a highly customizable, flicker-free, and adaptive ambient reading light. **Screen Light** is an offline-first, single-file web application built with zero external dependencies.
 
+👉 **[Launch Screen Light Online](https://assassinyousuf.github.io/screen_light/)**
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
@@ -81,12 +83,18 @@ When **Smart Circadian Mode** is active, Screen Light shifts color settings auto
 
 ## 🚀 Getting Started
 
+You can access and use **Screen Light** in two ways:
+
+### 🌐 Option 1: Launch the Hosted Version (Recommended)
+Simply open the live URL: **[https://assassinyousuf.github.io/screen_light/](https://assassinyousuf.github.io/screen_light/)**
+
+### 💻 Option 2: Run It Locally (Offline)
 1.  Clone this repository:
     ```bash
     git clone https://github.com/assassinyousuf/screen_light.git
     ```
-2.  Open `index.html` in any modern web browser (Chrome, Firefox, Safari, Edge).
-3.  Add the page to your bookmarks or home screen. Since it has no external network assets, it runs completely offline.
+2.  Open the local `index.html` file in any modern web browser.
+3.  Add the page to your bookmarks or home screen. Since it contains no external network assets, it runs completely offline.
 
 ---
 
